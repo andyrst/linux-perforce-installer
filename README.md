@@ -7,7 +7,7 @@ This script will install Perforce Server 2015.1 on a 64-bit linux host. It has o
 In shell, run the following commands in your terminal. You don't need to download this repo, that is what the first line in the following code does.
 
 ```shell
-wget https://github.com/andyrst/linux-perforce-installer/blob/master/install-perforce
+wget https://raw.githubusercontent.com/andyrst/linux-perforce-installer/master/install-perforce
 chmod +x install-perforce
 sudo ./install-perforce
 ```
