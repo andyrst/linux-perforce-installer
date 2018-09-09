@@ -1,5 +1,5 @@
 # About
-Original post and help:
+Original script and help:
 https://allarsblog.com/2014/09/24/setup-perforce-digital/
 
 This script will install Perforce Server 2015.1 on a 64-bit linux host. It has only been tested on Ubuntu so far. If you are looking for an Ubuntu host, I recommend the $20/month tier at [DigitalOcean](https://www.digitalocean.com/?refcode=070b959bc226).
